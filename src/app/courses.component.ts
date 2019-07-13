@@ -19,6 +19,6 @@ export class CoursesComponent {
   ];
 
   getTitle() {
-    return this.title
+    return this.title;
   }
 }
